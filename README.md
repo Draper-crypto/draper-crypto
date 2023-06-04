@@ -32,7 +32,7 @@
 ## 💪Planned learning：
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">   
+     <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">   
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat">   
     <img src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat">     
     <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat">   
@@ -46,14 +46,8 @@
 ## 🧰 Common tool
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=idea,mysql,vscode,visualstudio,vue&theme=light"> 
-</div>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=pr,au,ps,github,githubactions,md,postman"> 
-</div>
-
-<div align="center">
+<img src="https://skillicons.dev/icons?i=idea,mysql,vscode,visualstudio,vue&theme=light" /><br>
+<img src="https://skillicons.dev/icons?i=pr,au,ps,github,githubactions,md,postman" /><br>
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 </div>
 
@@ -64,13 +58,13 @@
 
 # About My Github
 
-| ![](https://metrics.lecoq.io/Draper-crypto?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FSingapore) | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draper-crypto" style="zoom:130%;" /> |
+| <img src="https://metrics.lecoq.io/Draper-crypto?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FSingapore"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draper-crypto" style="zoom:130%;" /> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  ![](https://streak-stats.demolab.com/?user=Draper-crypto)   | ![](https://github-readme-stats.vercel.app/api?username=Draper-crypto&show_icons=true&theme=flag-india) |
+| <img src="https://streak-stats.demolab.com/?user=Draper-crypto"> | <img src="https://github-readme-stats.vercel.app/api?username=Draper-crypto&show_icons=true&theme=flag-india"> |
 
 <img src="https://github-profile-trophy.vercel.app/?username=Draper-crypto&row=1&column=6&theme=flat&margin-w=50&margin-h=50&no-bg=true&no-frame=true&quot;" style="zoom:150%;" />
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Draper-crypto&theme=react-dark)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Draper-crypto&theme=react-dark">
 
 -----
 
@@ -81,8 +75,9 @@
 
 -----
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png">
-<br>
+
+![](https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png)
+
+
+
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" style="zoom:150%;" />
-</div>
