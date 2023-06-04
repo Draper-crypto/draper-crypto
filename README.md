@@ -15,3 +15,5 @@
 
 
 <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=Suprman88&theme=light&lang=zh-CN"/> </div>
+
+<div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%E7%9C%9F&vCenter=%E7%9C%9F&multiline=true&repeat=%E7%9C%9F&width=450&height=65&lines=Change+the+future+with+AI;Create+epoch-making+products" alt="Typing SVG" /></a></div>
