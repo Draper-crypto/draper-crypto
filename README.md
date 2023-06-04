@@ -8,7 +8,18 @@
 - ⛺️In my spare time of work and study, I am a fishing enthusiast and also like reading books very much. ~
 - 📨 Main interests: Law, software engineering, investment and finance 👏🏻 ~
 
+## 🔗 Contact：
 
+  <div align="center">
+    <a href="https://blog.csdn.net/Suprman88">
+        <img src="https://img.shields.io/badge/CSDN-论坛-c32136" />
+    </a>&emsp;
+    <a href="https://www.zhihu.com/people/draper-crypto">
+        <img src="https://img.shields.io/badge/Zhihu-知乎-blue" />
+    </a>&emsp;
+    <!-- visitor statistics logo 访客数统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=Draper-crypto&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
 
 ## 🧠 Medal of skill：
 
@@ -48,8 +59,18 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=idea,mysql,vscode,visualstudio,vue&theme=light" /><br>
 <img src="https://skillicons.dev/icons?i=pr,au,ps,github,githubactions,md,postman" /><br>
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
+    <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
+    <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
+ <br>
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+
+
 </div>
+
 
 
 
@@ -77,5 +98,8 @@
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png">
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" style="zoom:150%;">
+<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
+    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" style="zoom:100%;">
+   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 </ div>
+
