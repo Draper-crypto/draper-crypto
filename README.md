@@ -4,4 +4,4 @@
 
 <div align="center"> <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draper-crypto&layout=compact"/> </div>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Draper-crypto&theme=flat"&margin-w=15/> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Draper-crypto&theme=flat&margin-w=15"/> </div>
