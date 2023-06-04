@@ -8,6 +8,6 @@
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=Default"/> </div>
 
-<div align="center"> <img src=https://streak-stats.demolab.com/?user=draper-crypto)](https://git.io/streak-stats"/> </div>
+<div align="center"> <img src=https://streak-stats.demolab.com/?user=Draper-crypto"/> </div>
 
 
