@@ -2,4 +2,4 @@
 
 <div align="center"> <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Draper-crypto&show_icons=true&theme=flag-india"/> </div>
 
-<div align="center"> <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draper-crypto"/> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draper-crypto"/> </div>
