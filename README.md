@@ -11,6 +11,6 @@
 <div align="center"> <img src="https://streak-stats.demolab.com/?user=Draper-crypto"/> </div>
  
   
-<div align="center"> <img src="https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=light"/> </div>
+<div align="center"> <img src="https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=light&lang=zh-CN"/> </div>
 
 
