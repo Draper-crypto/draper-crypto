@@ -14,4 +14,4 @@
 <div align="center"> <img src="https://stats.justsong.cn/api/zhihu?username=draper-crypto&theme=light&lang=zh-CN"/> </div>
 
 
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=Suprman88"/> </div>
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=Suprman88&theme=light&lang=zh-CN"/> </div>
