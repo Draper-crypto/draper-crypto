@@ -1,12 +1,15 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2168F7&center=%E7%9C%9F&vCenter=%E7%9C%9F&multiline=true&repeat=%E7%9C%9F&width=788&height=88&lines=Hi%EF%BC%81%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B+I'm+draper-crypto.;I+want+to+change+the+future+through+artificial+intelligence.;Create+epoch-making+products." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&size=30&pause=1000&multiline=true&width=688&height=88&lines=Hello!+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B+I'm+John+Tao.;%E2%80%9CStay+hungry%EF%BC%8Cstay+foolish.%E2%80%9D" alt="Typing SVG" /></a>
 
 # 🎉 About me
+🎓 Junior college student majoring in software technology in Nanjing Engineering Higher Vocational School
 
-- 🔭 Studying **software technology** at Nanjing Engineering Vocational College~
-- 🏋 at Suzhou University **law Self-studying** ~
-- 👨‍💻A student of Robert Toru Kiyosaki’s **“Rich Dad Poor Dad” course** ~
-- ⛺️In my spare time of work and study, I am a fishing enthusiast and also like reading books very much. ~
-- 📨 Main interests: Law, software engineering, investment and finance 👏🏻 ~
+🎓 Soochow University law major self-examination undergraduate
+
+🎓 Master of Business Administration, College of Europe
+
+🔭 Member of Changjiang Technical and Economic Association（I2302227M）
+
+💰 Robert Kiyosaki “Rich Dad” course participant
 
 ## 🔗 Contact：
 
